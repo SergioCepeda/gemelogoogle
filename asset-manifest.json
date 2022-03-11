@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gemelogoogle/static/css/main.d8ab8933.css",
+    "main.js": "/gemelogoogle/static/js/main.a57f553f.js",
+    "index.html": "/gemelogoogle/index.html",
+    "main.d8ab8933.css.map": "/gemelogoogle/static/css/main.d8ab8933.css.map",
+    "main.a57f553f.js.map": "/gemelogoogle/static/js/main.a57f553f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8ab8933.css",
+    "static/js/main.a57f553f.js"
+  ]
+}
